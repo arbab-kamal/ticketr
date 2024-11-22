@@ -1,5 +1,7 @@
 # Ticketr - Real-time Event Ticketing Platform
 
+![Alt text](https://github.com/arbab-kamal/ticketr/blob/main/public/Screenshot%20(61).png)
+
 A modern, real-time event ticketing platform built with Next.js 14, Convex, Clerk, and Stripe Connect. Features a sophisticated queue system, real-time updates, and secure payment processing.
 
 ## Features
